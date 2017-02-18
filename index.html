@@ -28,3 +28,14 @@
   <li>Number of occurrences of the letter 'z' in file</li>
   <li>Number of occurrences of all letters (case insensitive) in file</li>
 </ol>
+
+<p>How does performance compare to this Python script version?</p>
+
+<pre>
+file_ = open("big.txt")
+count = 0
+for line in file_:
+    for char in line:
+        count += 1
+print(count)
+</pre>
