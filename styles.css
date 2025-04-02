@@ -1,0 +1,5 @@
+html { font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+body { margin: 0 auto; padding: 2rem; max-width: 840px }
+pre { padding: 20px; border-radius: 4px; background: whitesmoke }
+a { text-decoration: none; background-color: whitesmoke; border-radius: 3px; }
+a:hover { text-decoration: underline }
