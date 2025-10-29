@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title or "Rust NYC Zoom" }}</title>
+  <link href="/styles.css" rel="stylesheet">
+  <style>
+    .zoom-container {
+      max-width: 600px;
+      margin: 2rem auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    .meeting-id {
+      font-size: 3rem;
+      font-weight: bold;
+      font-family: monospace;
+      letter-spacing: 0.1em;
+      margin: 1.5rem 0;
+      color: #2D8CFF;
+      user-select: all;
+    }
+    .join-button {
+      display: inline-block;
+      background: #2D8CFF;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1.25rem;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 8px;
+      margin: 1.5rem 0;
+      transition: background 0.2s;
+    }
+    .join-button:hover {
+      background: #1a75e8;
+    }
+  </style>
+</head>
+<body>
+  <div class="zoom-container">
+    {{ content | safe }}
+  </div>
+</body>
+</html>
