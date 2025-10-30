@@ -7,9 +7,15 @@ title: Rust NYC
 
 [Meetup](https://www.meetup.com/Rust-NYC/)
 
-[Join the Discord](https://discord.gg/5mGe3AGzgn)
+[Join the Discord](https://discord.gg/5mGe3AGzgn) (#in-nyc)
 
 [Follow RustEastCoast's (virtual events) calendar on Luma](https://lu.ma/rusteastcoast)
+
+[Bluesky](https://bsky.app/profile/rust.nyc)
+
+[YouTube](https://youtube.com/@RustEastCoast)
+
+[Rust East Coast links](https://rusteastcoast.com?utm_source=rust.nyc)
 
 [Source code of this website](https://github.com/rust-nyc/rust-nyc.github.io)
 
