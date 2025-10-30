@@ -5,15 +5,15 @@ title: Rust NYC
 
 # <img src="/rust-nyc-liberty-ferris.png" alt="" style="height: 1em; width: auto"> Rust NYC!
 
-[Meetup](https://www.meetup.com/Rust-NYC/)
+**[Register for Unconf 2025](https://luma.com/lt31g7a2)**
 
-[Join the Discord](https://discord.gg/5mGe3AGzgn) (#in-nyc)
+ - [Meetup](https://www.meetup.com/Rust-NYC/)
+ - [Join the Discord](https://discord.gg/5mGe3AGzgn) (#in-nyc)
 
-[Follow RustEastCoast's (virtual events) calendar on Luma](https://lu.ma/rusteastcoast)
-
-[Bluesky](https://bsky.app/profile/rust.nyc)
-
-[YouTube](https://youtube.com/@RustEastCoast)
+Follow us:
+ - [Bluesky](https://bsky.app/profile/rust.nyc)
+ - [𝕏](https://x.com/rust_nyc)
+ - [YouTube](https://youtube.com/@RustEastCoast)
 
 [Rust East Coast links](https://rusteastcoast.com?utm_source=rust.nyc)
 
