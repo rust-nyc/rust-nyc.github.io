@@ -1,15 +1,8 @@
 # rust-nyc.github.io
 
-To install dependencies:
+## Developing Locally
 
-```bash
-bun install
-```
+_`mise` manages all tool versions and the environment for you_
 
-To run:
-
-```bash
-bun run 
-```
-
-This project was created using `bun init` in bun v1.3.1. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+1. [Setup `mise`](https://mise.jdx.dev/getting-started.html)
+2. Run `mise run dev`
