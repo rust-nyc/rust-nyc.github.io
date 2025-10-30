@@ -7,10 +7,11 @@ title: Rust NYC
 
 **[Register for Unconf 2025](https://luma.com/lt31g7a2)**
 
- - [Meetup](https://www.meetup.com/Rust-NYC/)
+ - [Meetup events](https://www.meetup.com/Rust-NYC/)
  - [Join the Discord](https://discord.gg/5mGe3AGzgn) (#in-nyc)
+ - [Talk submissions](https://rustnyc-talks.val.run/)
 
-Follow us:
+Follow us
  - [Bluesky](https://bsky.app/profile/rust.nyc)
  - [𝕏](https://x.com/rust_nyc)
  - [YouTube](https://youtube.com/@RustEastCoast)
