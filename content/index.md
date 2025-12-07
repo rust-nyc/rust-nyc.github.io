@@ -5,7 +5,8 @@ title: Rust NYC
 
 # <img src="/rust-nyc-liberty-ferris.png" alt="" style="height: 1em; width: auto"> Rust NYC!
 
-👉 **[Register for Unconf 2025](https://luma.com/lt31g7a2)** 👈
+👉 **Big thanks to everyone who attended the [Rust NYC Unconf 2025](https://luma.com/lt31g7a2)** 👈
+This was the biggest free Rust event ever, and we so much appreciate everyone who was able to attend and share their knowledge and passion for learning and supporting others to thrive with Rust.
 
 ## Meetup
 
