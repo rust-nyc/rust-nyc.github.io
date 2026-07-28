@@ -8,11 +8,16 @@ title: Rust NYC
 👉 **Big thanks to everyone who attended the [Rust NYC Unconf 2025](https://luma.com/lt31g7a2)** 👈
 This was the biggest free Rust event ever, and we so much appreciate everyone who was able to attend and share their knowledge and passion for learning and supporting others to thrive with Rust.
 
+<aside class="talk-callout">
+  <h2>Share your Rust story</h2>
+  <p>Have an idea you'd like to share at a future meetup? Send us a talk proposal.</p>
+  <a class="talk-callout__button" href="https://rustnyc-talks.val.run/">Submit a talk</a>
+</aside>
+
 ## Meetup
 
  - [Meetup events](https://www.meetup.com/Rust-NYC/)
  - [Join the Discord](https://discord.gg/5mGe3AGzgn) (#in-nyc)
- - [Talk submissions](https://rustnyc-talks.val.run/)
 
 Follow us on [Bluesky](https://bsky.app/profile/rust.nyc), [𝕏](https://x.com/rust_nyc), and [YouTube](https://youtube.com/@RustEastCoast)
 
