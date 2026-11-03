@@ -67,3 +67,54 @@ a:hover {
     outline: 3px solid #0366d6;
     outline-offset: 3px;
 }
+
+.unconf-callout {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 2px solid #037d57;
+    border-radius: 10px;
+    background-color: #eef7f4;
+}
+
+.unconf-callout__banner {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.unconf-callout h2 {
+    margin: 1rem 0 0.5rem;
+}
+
+.unconf-callout__button {
+    display: inline-block;
+    padding: 0.6rem 1rem;
+    background-color: #037d57;
+    color: #fff;
+    font-weight: 700;
+}
+
+.unconf-callout__button:hover {
+    background-color: #025d41;
+    text-decoration: none;
+}
+
+.unconf-callout__button:focus-visible {
+    outline: 3px solid #0366d6;
+    outline-offset: 3px;
+}
+
+.unconf-callout__details {
+    margin-bottom: 0;
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 1rem;
+    }
+
+    .unconf-callout {
+        padding: 1rem;
+    }
+}

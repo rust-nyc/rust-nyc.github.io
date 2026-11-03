@@ -5,8 +5,17 @@ title: Rust NYC
 
 # <img src="/rust-nyc-liberty-ferris.png" alt="" style="height: 1em; width: auto"> Rust NYC!
 
-👉 **Big thanks to everyone who attended the [Rust NYC Unconf 2025](https://luma.com/lt31g7a2)** 👈
-This was the biggest free Rust event ever, and we so much appreciate everyone who was able to attend and share their knowledge and passion for learning and supporting others to thrive with Rust.
+<section class="unconf-callout" aria-labelledby="unconf-title">
+  <img class="unconf-callout__banner" src="/rust-nyc-unconf-2026.png" alt="Rust NYC UnConf 2026. Thanks to our sponsors: Helius, Antithesis, Eden, JetBrains, Empathic, Iroh, and Lawrence Harvey." width="1600" height="1200">
+  <h2 id="unconf-title">Rust NYC: The UnConf 2026</h2>
+  <p><strong>Friday, December 4, 2026 · 2–6 PM EST</strong><br>
+  Jay Conference Center, Chelsea<br>
+  159 West 25th Street, 2nd floor, New York, NY</p>
+  <p>Join us for a free afternoon of 20 interactive tracks: discussions, workshops, talks, demos, and classes covering embedded Rust, async, distributed systems, AI, GPUs, databases, and more. Stay for happy hour afterwards!</p>
+  <p>Space is limited to 300 attendees. Registration requires approval, and we’ll bring people off the waitlist weekly.</p>
+  <a class="unconf-callout__button" href="https://luma.com/fkm536ya">Register for free on Luma</a>
+  <p class="unconf-callout__details">See the announced tracks and latest event details on <a href="/unconf/">the event page</a>.</p>
+</section>
 
 <aside class="talk-callout">
   <h2>Share your Rust story</h2>
