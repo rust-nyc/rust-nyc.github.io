@@ -6,15 +6,23 @@ title: Rust NYC
 # <img src="/rust-nyc-liberty-ferris.png" alt="" style="height: 1em; width: auto"> Rust NYC!
 
 <section class="unconf-callout" aria-labelledby="unconf-title">
-  <img class="unconf-callout__banner" src="/rust-nyc-unconf-2026.png" alt="Rust NYC UnConf 2026. Thanks to our sponsors: Helius, Antithesis, Eden, JetBrains, Empathic, Iroh, and Lawrence Harvey." width="1600" height="1200">
-  <h2 id="unconf-title">Rust NYC: The UnConf 2026</h2>
-  <p><strong>Friday, December 4, 2026 · 2–6 PM EST</strong><br>
-  Jay Conference Center, Chelsea<br>
-  159 West 25th Street, 2nd floor, New York, NY</p>
-  <p>Join us for a free afternoon of 20 interactive tracks: discussions, workshops, talks, demos, and classes covering embedded Rust, async, distributed systems, AI, GPUs, databases, and more. Stay for happy hour afterwards!</p>
-  <p>Space is limited to 300 attendees. Registration requires approval, and we’ll bring people off the waitlist weekly.</p>
-  <a class="unconf-callout__button" href="https://luma.com/fkm536ya">Register for free on Luma</a>
-  <p class="unconf-callout__details">See the announced tracks and latest event details on <a href="/unconf/">the event page</a>.</p>
+  <img class="unconf-callout__crabs" src="/assets/unconf-2026/crabs.svg" alt="" width="280">
+  <h2 id="unconf-title">Rust NYC: UnConf 2026</h2>
+  <p class="unconf-callout__date"><strong>December 4, 2026 · 2–6 PM EST</strong></p>
+  <p>A free afternoon of 20 interactive Rust tracks, followed by happy hour.</p>
+  <a class="unconf-callout__button" href="https://luma.com/fkm536ya">Details &amp; free registration</a>
+  <div class="unconf-sponsors" aria-labelledby="sponsors-title">
+    <h3 id="sponsors-title">Thanks to our sponsors</h3>
+    <div class="unconf-sponsors__logos">
+      <img src="/assets/unconf-2026/helius.png" alt="Helius">
+      <img src="/assets/unconf-2026/antithesis.png" alt="Antithesis">
+      <img src="/assets/unconf-2026/eden.png" alt="Eden">
+      <img src="/assets/unconf-2026/jetbrains.png" alt="JetBrains">
+      <img src="/assets/unconf-2026/ezm.png" alt="Empathic">
+      <img src="/assets/unconf-2026/iroh.png" alt="Iroh">
+      <img src="/assets/unconf-2026/lawrence-harvey.png" alt="Lawrence Harvey">
+    </div>
+  </div>
 </section>
 
 <aside class="talk-callout">

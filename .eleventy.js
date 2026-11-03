@@ -8,6 +8,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ "*.png": "." });
   eleventyConfig.addPassthroughCopy({ ".well-known": ".well-known" });
   eleventyConfig.addPassthroughCopy({ "CNAME": "CNAME" });
+  eleventyConfig.addPassthroughCopy({ "assets": "assets" });
 
   eleventyConfig.setServerOptions({
     port: 3000

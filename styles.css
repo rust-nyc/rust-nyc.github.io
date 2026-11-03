@@ -74,17 +74,25 @@ a:hover {
     border: 2px solid #037d57;
     border-radius: 10px;
     background-color: #eef7f4;
+    text-align: center;
 }
 
-.unconf-callout__banner {
+.unconf-callout__crabs {
     display: block;
-    width: 100%;
+    width: min(280px, 100%);
     height: auto;
-    border-radius: 6px;
+    margin: 0 auto 1rem;
 }
 
 .unconf-callout h2 {
-    margin: 1rem 0 0.5rem;
+    margin: 0 0 0.5rem;
+    color: #037d57;
+    font-size: clamp(1.5rem, 5vw, 2rem);
+    line-height: 1.2;
+}
+
+.unconf-callout__date {
+    margin-top: 0;
 }
 
 .unconf-callout__button {
@@ -105,8 +113,34 @@ a:hover {
     outline-offset: 3px;
 }
 
-.unconf-callout__details {
-    margin-bottom: 0;
+.unconf-sponsors {
+    margin-top: 2rem;
+    padding: 1.5rem 1rem;
+    border-radius: 6px;
+    background: #fff;
+}
+
+.unconf-sponsors h3 {
+    margin: 0 0 1.5rem;
+    color: #037d57;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.unconf-sponsors__logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.unconf-sponsors__logos img {
+    width: 148px;
+    height: 68px;
+    max-width: 100%;
+    object-fit: contain;
 }
 
 @media (max-width: 480px) {
@@ -116,5 +150,18 @@ a:hover {
 
     .unconf-callout {
         padding: 1rem;
+    }
+
+    .unconf-sponsors {
+        padding: 1.25rem 0.75rem;
+    }
+
+    .unconf-sponsors__logos {
+        gap: 1.5rem 1rem;
+    }
+
+    .unconf-sponsors__logos img {
+        width: calc((100% - 1rem) / 2);
+        height: 60px;
     }
 }
